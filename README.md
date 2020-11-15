@@ -1,5 +1,7 @@
 ### APLIKASI TAMU UNDANGAN oleh TIM RPL | SMK NURUL ISLAM
 
+#### BUILD WITH LARAVEL 8
+
 ##### Untuk mulai menggunakan aplikasi, harap baca ini.
 1. Clone repository ini, dengan tekan tombol **CODE (warna hijau)** lalu salin link https repository
 2. Buka terminal/cmd ketik perintah **git clone link yang dicopy**
